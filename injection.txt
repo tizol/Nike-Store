@@ -1,2 +1,0 @@
-// Products.update({ _id: "1" }, {$set: { name:"sql injection"} });
-// Products.update({ _id: "1" }, {$set: { price: 3} });
